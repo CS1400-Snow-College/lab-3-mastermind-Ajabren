@@ -1,0 +1,15 @@
+C:\Users\EVOO\my-code-dir\lab-3-mastermind-Ajabren\bin\Debug\net8.0\lab-3-mastermind-Ajabren.exe
+C:\Users\EVOO\my-code-dir\lab-3-mastermind-Ajabren\bin\Debug\net8.0\lab-3-mastermind-Ajabren.deps.json
+C:\Users\EVOO\my-code-dir\lab-3-mastermind-Ajabren\bin\Debug\net8.0\lab-3-mastermind-Ajabren.runtimeconfig.json
+C:\Users\EVOO\my-code-dir\lab-3-mastermind-Ajabren\bin\Debug\net8.0\lab-3-mastermind-Ajabren.dll
+C:\Users\EVOO\my-code-dir\lab-3-mastermind-Ajabren\bin\Debug\net8.0\lab-3-mastermind-Ajabren.pdb
+C:\Users\EVOO\my-code-dir\lab-3-mastermind-Ajabren\obj\Debug\net8.0\lab-3-mastermind-Ajabren.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EVOO\my-code-dir\lab-3-mastermind-Ajabren\obj\Debug\net8.0\lab-3-mastermind-Ajabren.AssemblyInfoInputs.cache
+C:\Users\EVOO\my-code-dir\lab-3-mastermind-Ajabren\obj\Debug\net8.0\lab-3-mastermind-Ajabren.AssemblyInfo.cs
+C:\Users\EVOO\my-code-dir\lab-3-mastermind-Ajabren\obj\Debug\net8.0\lab-3-mastermind-Ajabren.csproj.CoreCompileInputs.cache
+C:\Users\EVOO\my-code-dir\lab-3-mastermind-Ajabren\obj\Debug\net8.0\lab-3-mastermind-Ajabren.sourcelink.json
+C:\Users\EVOO\my-code-dir\lab-3-mastermind-Ajabren\obj\Debug\net8.0\lab-3-mastermind-Ajabren.dll
+C:\Users\EVOO\my-code-dir\lab-3-mastermind-Ajabren\obj\Debug\net8.0\refint\lab-3-mastermind-Ajabren.dll
+C:\Users\EVOO\my-code-dir\lab-3-mastermind-Ajabren\obj\Debug\net8.0\lab-3-mastermind-Ajabren.pdb
+C:\Users\EVOO\my-code-dir\lab-3-mastermind-Ajabren\obj\Debug\net8.0\lab-3-mastermind-Ajabren.genruntimeconfig.cache
+C:\Users\EVOO\my-code-dir\lab-3-mastermind-Ajabren\obj\Debug\net8.0\ref\lab-3-mastermind-Ajabren.dll
